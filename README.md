@@ -1,4 +1,5 @@
 # 500+ Data Structures and Algorithms practice problems
+Guys Edit the document use the - [ ] and - [x] syntax to update your task list.
 ## Array
 - [ ] [1.Find pair with given sum in the array](http://www.techiedelight.com/find-pair-with-given-sum-array/)
 - [ ] [2.Check if subarray with 0 sum is exists or not](http://www.techiedelight.com/check-subarray-with-0-sum-exists-not/)
