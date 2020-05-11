@@ -173,7 +173,7 @@
 - [ ] [14.Find ways to calculate a target from elements of specified array](http://www.techiedelight.com/find-ways-calculate-target-elements-array/)
 - [ ] [15.Find minimum number possible by doing at-most K swaps](http://www.techiedelight.com/find-minimum-number-possible-k-swaps/)
 - [ ] [16.Determine if a pattern matches with a string or not](http://www.techiedelight.com/determine-pattern-matches-string-not/)
-- [ ] ### Binary
+ ## Binary
 - [ ] [1.Bit Hacks — Part 1 (Basic)](http://www.techiedelight.com/bit-hacks-part-1-basic/)
 - [ ] [2.Bit Hacks — Part 2 (Playing with k’th bit)](http://www.techiedelight.com/bit-hacks-part-2-playing-kth-bit/)
 - [ ] [3.Bit Hacks — Part 3 (Playing with rightmost set bit of a number)](http://www.techiedelight.com/bit-hacks-part-3-playing-rightmost-set-bit-number/)
